@@ -51,13 +51,6 @@ We are always looking for talented developers, researchers, and visionaries to j
 - **Check out our GitHub**: [DevRhylme GitHub](https://github.com/DevRhylme)
 - **Contact us**: info@devrhylme.org
 
-## 🚀 Open-Source Libraries
-Explore some of our key Python libraries:
-
-- **[VisionPy](#)**: Build powerful computer vision applications easily.
-- **[Web3AI](#)**: Simplify AI integration into decentralized systems.
-- **[AIStream](#)**: Optimize AI data workflows for speed and efficiency.
-
 ## ⚠️ Important
 - **Always use the latest version** of our libraries for optimal performance and security.
 - For Web3 tools, ensure proper configuration to avoid vulnerabilities.
