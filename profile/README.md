@@ -35,10 +35,14 @@ We create and maintain **open-source Python libraries** that simplify AI develop
 
 ## 🛠️ Our Technology Stack
 We utilize a modern and comprehensive technology stack, including:
-- **Languages**: Python, JavaScript
-- **AI Frameworks**: TensorFlow, PyTorch
-- **Blockchain Platforms**: Ethereum, Solana
-- **Web3 Tools**: MetaMask, Truffle
+
+- **Programming Languages:** Python, C++, JavaScript
+- **Deep Learning Frameworks:** TensorFlow, PyTorch, Keras
+- **Computer Vision Libraries:** OpenCV, scikit-image, Dlib
+- **Machine Learning Tools:** Scikit-learn, XGBoost, LightGBM
+- **Data Processing:** NumPy, Pandas, Dask
+- **Natural Language Processing (NLP):** Hugging Face, spaCy, NLTK
+This stack enables us to develop scalable, efficient, and highly performant AI solutions, ensuring seamless integration with various platforms and applications.
 
 ## 🔗 Get Involved
 We are always looking for talented developers, researchers, and visionaries to join us in our mission. If you’re interested in contributing to our open-source projects or collaborating with us, you can:
