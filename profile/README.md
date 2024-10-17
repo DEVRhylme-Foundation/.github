@@ -11,11 +11,11 @@
 # DevRhylme Foundation
 
 **Welcome to DevRhylme Foundation!**  
-An AI startup dedicated to advancing **AI technology** with a primary focus on **deep learning, computer vision,** and **open-source AI tools**.
+DevRhylme Foundation, an AI startup dedicated to advancing **AI technology** with a primary focus on **deep learning, computer vision,** and **open-source AI tools**.
 
 
 ## 🌟 Vision
-Our vision is to push the boundaries of **AI technology**, focusing on creating solutions in computer vision and contributing to the Python ecosystem. Additionally, we aim to integrate **AI** into **Web3 technology**, making decentralized applications (dApps) more accessible for developers and enterprises.
+We are committed to pushing the boundaries of AI by developing cutting-edge solutions in computer vision and contributing to the growing ecosystem of Python libraries. Our work emphasizes leveraging deep learning to build smarter, more intuitive systems that can understand and interpret the world.
 
 ## 💼 What We Do
 At DevRhylme Foundation, we focus on three main areas:
@@ -32,12 +32,6 @@ We create and maintain **open-source Python libraries** that simplify AI develop
 - **VisionPy**: A powerful computer vision library for building applications with minimal code.
 - **Web3AI**: A library that simplifies integrating AI models into Web3 and decentralized applications.
 - **AIStream**: A data processing library optimized for AI workflows, focusing on speed and ease of use.
-
-### 3. Web3 Technology
-We bridge the gap between AI and blockchain by developing frameworks that allow for seamless integration with decentralized systems. Our work focuses on:
-- Integrating AI into decentralized applications (dApps)
-- Automating processes using smart contracts
-- Cross-chain compatibility with platforms like Ethereum and Solana
 
 ## 🛠️ Our Technology Stack
 We utilize a modern and comprehensive technology stack, including:
@@ -61,10 +55,10 @@ Join our community of developers and innovators who are contributing to the futu
 
 ## 📢 Stay Updated
 Follow us on social media for the latest updates and news:
-- [Twitter](https://twitter.com/devrhylme)
+- [Twitter](https://twitter.com/devrhylme1)
 - [LinkedIn](https://www.linkedin.com/company/devrhylme)
 - [GitHub](https://github.com/DevRhylme)
 
 ---
 
-**DevRhylme Foundation – Advancing AI and Web3 technology.**
+**DevRhylme Foundation – Advancing AI Innovation through Deep Learning and Computer Vision**
