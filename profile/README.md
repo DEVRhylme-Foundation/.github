@@ -1,4 +1,4 @@
-![Blue and White Geometric Modern Personal LinkedIn Banner](https://github.com/user-attachments/assets/a4828178-7fc4-4b0d-8b56-83e52eb408c4)
+![TimeLine](https://github.com/user-attachments/assets/c3a578f4-5f94-4307-be0d-bd2295645375)
 
 <p align="center"> 
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJTNqGCwxWWsdRcdPfdsTsQdLlSLrjkkbxGKmBjfKBjWtSBRtlSztGlCNktJncZxhStxCJB"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
