@@ -1,17 +1,18 @@
-![TimeLine](https://github.com/user-attachments/assets/c3a578f4-5f94-4307-be0d-bd2295645375)
+![Banner](https://github.com/user-attachments/assets/c3a578f4-5f94-4307-be0d-bd2295645375)
 
 <p align="center"> 
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJTNqGCwxWWsdRcdPfdsTsQdLlSLrjkkbxGKmBjfKBjWtSBRtlSztGlCNktJncZxhStxCJB"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 # DevRhylme Foundation
 
 **Welcome to DevRhylme Foundation!**  
-We are an AI startup focused on advancing cutting-edge technologies in **Computer Vision**, **Python Libraries**, and **Web3 Technology**. Our mission is to empower developers and organizations with innovative tools to drive AI and Web3 innovation.
+An AI startup dedicated to advancing **AI technology** with a primary focus on **deep learning, computer vision,** and **open-source AI tools**.
+
 
 ## 🌟 Vision
 Our vision is to push the boundaries of **AI technology**, focusing on creating solutions in computer vision and contributing to the Python ecosystem. Additionally, we aim to integrate **AI** into **Web3 technology**, making decentralized applications (dApps) more accessible for developers and enterprises.
