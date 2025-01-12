@@ -38,7 +38,7 @@ As advocates for the decentralized web, we are deeply involved in Web 3.0 projec
 
 We are always looking for talented developers, researchers, and visionaries to join us in our mission. If you’re interested in contributing to our open-source projects or collaborating with us, you can:
 
-- **Contact us**: info@devrhylme.org 📧
+- **Contact us**: contact@devrhylme.org 📧
 
 ## ⚠️ Important
 
