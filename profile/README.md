@@ -34,24 +34,10 @@ As advocates for the decentralized web, we are deeply involved in Web 3.0 projec
 - **Innovation-Focused** 💡: From Generative AI to Web 3.0, we focus on cutting-edge technologies that shape the future.
 - **Accessible Knowledge** 📚: We aim to make complex technologies simple and approachable for all levels of expertise.
 
-## 🛠️ Our Technology Stack
-
-We utilize a modern and comprehensive technology stack, including:
-
-- **Programming Languages**: Python, C++, JavaScript 🐍🖥️
-- **Deep Learning Frameworks**: TensorFlow, PyTorch, Keras 🧠
-- **Computer Vision Libraries**: OpenCV, scikit-image, Dlib 👁️‍🗨️
-- **Machine Learning Tools**: Scikit-learn, XGBoost, LightGBM 📊
-- **Data Processing**: NumPy, Pandas, Dask 📈
-- **Natural Language Processing (NLP)**: Hugging Face, spaCy, NLTK 💬
-
-This stack enables us to develop scalable, efficient, and highly performant AI solutions, ensuring seamless integration with various platforms and applications.
-
 ## 🔗 Get Involved
 
 We are always looking for talented developers, researchers, and visionaries to join us in our mission. If you’re interested in contributing to our open-source projects or collaborating with us, you can:
 
-- **Check out our GitHub**: [DevRhylme GitHub](https://github.com/DevRhylme) 📂
 - **Contact us**: info@devrhylme.org 📧
 
 ## ⚠️ Important
@@ -68,8 +54,6 @@ Join our community of developers and innovators who are contributing to the futu
 Follow us on social media for the latest updates and news:
 - [Twitter](https://twitter.com/devrhylme1) 🐦
 - [LinkedIn](https://www.linkedin.com/company/devrhylme) 💼
-- [Slack](https://join.slack.com/t/devrhylmefoundation/shared_invite/zt-2sjg2note-JAoszdfmfzJDsGk7vXcZag) 🖥️
-
 ---
 
 **DevRhylme Foundation – Advancing AI Innovation through Deep Learning and Computer Vision** 🌟🌐🚀
